@@ -1,5 +1,3 @@
-# Saad-Amjad
+# Hello, World! :coffee:
 
-Full Stack Engineer. :coffee:
-
-Prefers tea over coffee, and coffee over anything else.
+I prefer tea over coffee, and coffee over anything else. What about you?
